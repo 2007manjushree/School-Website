@@ -1,0 +1,126 @@
+.brand {
+    width: 10px;
+    height: 10px;
+}
+
+#logo {
+    margin-left: 10px;
+    margin: 5px;
+}
+#marqueeStyle {
+    background-color: darkgreen;
+    color: white;
+    width: 100%;
+    padding: 5px;
+}
+
+#intro iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_maindiv {
+    border: 1px solid black;
+    padding: 5px;
+    width: 33.33%
+    float: left;
+}
+
+.travel_maindiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_maindiv hr {
+    width: 100%;
+}
+
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+#achievementsID{
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: darkgreen;
+    color: white;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
